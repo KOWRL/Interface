@@ -4,3 +4,9 @@ a{
   border-bottom:2px solid #0062cc;
 }
 
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 40px; /* Added */
+}
+
