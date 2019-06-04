@@ -781,4 +781,3 @@ create_div();
 
 
 var find_msg = document.getElementById('find_msg');
-
